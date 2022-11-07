@@ -1,0 +1,25 @@
+// Global
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+// Navigation
+
+nav {
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+    li {
+        display: inline-block;
+        margin-right: 36px;
+        position: relative;
+    }
+    a {
+        text-decoration: none;
+        font-weight: bold;
+        color: black
+    }
+}

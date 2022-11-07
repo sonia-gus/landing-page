@@ -1,3 +1,21 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
 
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+nav li {
+  display: inline-block;
+  margin-right: 36px;
+  position: relative;
+}
+nav a {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFFQTtFQUNJLHNCQUFBO0FDREo7O0FET0k7RUFDSSxTQUFBO0VBQ0EsVUFBQTtFQUNBLHFCQUFBO0FDSlI7QURNSTtFQUNJLHFCQUFBO0VBQ0Esa0JBQUE7RUFDQSxrQkFBQTtBQ0pSO0FETUk7RUFDSSxxQkFBQTtFQUNBLGlCQUFBO0VBQ0EsWUFBQTtBQ0pSIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
